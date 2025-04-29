@@ -6897,8 +6897,8 @@ PrefabInstance:
         type: 3}
       propertyPath: m_text
       value: "VR ASL Controls\n\n\nFor this experience you will be using a Quest
-        series headset \n\non the right is a basic overview of the controls and hand
-        shapes you can use, there is also the option of using hand tracking"
+        series headset \n\non the right is a basic overview of the hand shapes you
+        can make using the controllers, there is also the option of using hand tracking"
       objectReference: {fileID: 0}
     - target: {fileID: 7867201416659881442, guid: 757e4f3a0de1bae4a8fd5c8571a1fbf1,
         type: 3}
@@ -12297,7 +12297,7 @@ PrefabInstance:
 
 
         Please
-        click the button on the left side to begin the demo'
+        use the trigger on the green button to be taken to the main space'
       objectReference: {fileID: 0}
     - target: {fileID: 7867201416659881442, guid: 757e4f3a0de1bae4a8fd5c8571a1fbf1,
         type: 3}
@@ -12403,16 +12403,16 @@ MonoBehaviour:
   useAssignedLayers: 0
   DynamicPrefabs: []
   DynamicMaterials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 2100000, guid: f9f0ca4e1c93d7c449df855cc90deab0, type: 2}
+  - {fileID: 2100000, guid: 164ff9d2555bd454d8ec6f61b4a6ac7b, type: 2}
+  - {fileID: 2100000, guid: f4fcb192ca954c94599c7621e6ac648f, type: 2}
   - {fileID: 2100000, guid: 30b92673b9b7ef44c9c11a474d9910c9, type: 2}
   - {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
-  - {fileID: 2100000, guid: 164ff9d2555bd454d8ec6f61b4a6ac7b, type: 2}
-  - {fileID: 2100000, guid: 3ae3eb29801e0624b8d6c9f9409d9b83, type: 2}
   - {fileID: 2100000, guid: 52a366056c4e41847b29554669587ea7, type: 2}
   - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: f9f0ca4e1c93d7c449df855cc90deab0, type: 2}
+  - {fileID: 2100000, guid: 3ae3eb29801e0624b8d6c9f9409d9b83, type: 2}
   - {fileID: 2100000, guid: 66d9fd74365609443be2d0ead653b252, type: 2}
-  - {fileID: 2100000, guid: f4fcb192ca954c94599c7621e6ac648f, type: 2}
   - {fileID: 2100000, guid: 1b5cd79bd3b5330469e8cd0a9c8768c2, type: 2}
   - {fileID: 2100000, guid: 00dafd7d8bfec234e8a4616db2ef7a94, type: 2}
   - {fileID: 2100000, guid: 40652495ab8cee845b19e70b8cb32bec, type: 2}
